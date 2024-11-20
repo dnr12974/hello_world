@@ -1,6 +1,6 @@
 # hello_world
 ## This a commit with multiple authors
-theme:Architect
+# DHEER'S GITHUB WEPAGE
 # change made
 second change made
 
